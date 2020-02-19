@@ -1,0 +1,48 @@
+#main{
+    background-image: url(https://d19m59y37dris4.cloudfront.net/directory/1-4-1/img/photo/photo-1501621965065-c6e1cf6b53e2.jpg);
+    height: 600px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.item{
+    margin: 200px 0;
+}
+.item h5{
+     color: blueviolet;
+     margin-bottom: 27px;
+    
+   
+}
+.item h1{
+    font-weight: 700 !important;
+    color: white;
+}
+.custom-select{
+    width: 156px;
+   
+}
+.input-group{
+    padding: 7px;
+    background-color: white;
+    border-radius: 30px;
+}
+/* #main input, #main select{
+    border: none;
+} */
+button{
+    border-radius: 30px !important;
+}
+#booking .romb{
+    text-align: center;
+   
+    margin: 96px;
+}
+#booking .romb p{
+    color: #e83e8c !important;
+    font-weight: bold;
+}
+#booking i{
+    font-size: 30px;
+}
